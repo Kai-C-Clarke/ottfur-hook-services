@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="assets/ottfur-logo.jpg" width="220" alt="Ottfur Hook Services">
+</p>
+
 # Ottfur Hook Services
 
 **Cair Aviation CW300 and CW400 Quick Release Hook — Calibration, Certification and Technical Documentation**
